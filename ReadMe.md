@@ -1,7 +1,18 @@
 # 💫 About Me:
 About Me<br><br>Hey! 👋 I'm a software engineer who’s super passionate about Machine Learning and AI 🤖. I love bringing ideas to life through code. Whether it's training ML models, building cool apps, or finding awesome patterns in data 🔍. Always up for a new challenge and excited about how tech can change the world!<br><br>My GitHub is my playground 🛠️, where I share some of the projects I’ve been working on. Check it out here and let’s team up to build something awesome together! 🚀
 
-[![Postman API Fundamentals Student Expert Badge](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q/image)](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q?identity__email=harishscc123%40gmail.com)
+# Postman API Fundamentals Student Expert Badge
+
+![Postman API Fundamentals Student Expert Badge](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q/image)
+
+**Issued On:** October 24, 2024  
+**Badge URL:** [View Badge](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q)  
+**Description:** This badge was awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks in Postman and passing all tests with a submitted Postman Collection.
+
+---
+
+*Verification:* This badge is hosted on Badgr and can be verified at the following link: [Verify Badge](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q)
+
 
 
 ## 🌐 Socials:
