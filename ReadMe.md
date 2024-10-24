@@ -9,9 +9,48 @@ About Me<br><br>Hey! 👋 I'm a software engineer who’s super passionate about
 **Badge URL:** [View Badge](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q)  
 **Description:** This badge was awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks in Postman and passing all tests with a submitted Postman Collection.
 
+*Verification:* This badge is hosted on Badgr and can be verified at the following link: [Verify Badge](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q)
+
+
+# Google Cloud Applied AI Summit Attendee Badge and E-Certificate
+
+![Google Cloud Applied AI Summit Badge](./images/google-cloud-ai-summit-badge.png)  
+
+**Issued On:** February 13, 2024  
+**Expires On:** Does not expire  
+
+**Verification URL:** [Verify Badge](https://www.credential.net/b5c82bdb-9d9b-42e9-9d4b-b3a953dc8bcc)
+
 ---
 
-*Verification:* This badge is hosted on Badgr and can be verified at the following link: [Verify Badge](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q)
+The **Google Cloud Applied AI Summit attendee badge** and **e-certificate** are awarded to participants who attended 5 or more sessions during the program, recognizing their participation and commitment to learning.
+
+Live-streamed across the Asia Pacific region on **January 25, 2024**, the **Google Cloud Applied AI Summit** provided curated content for **Developers, IT Professionals, and Business Leaders** to explore the latest generative AI models and tools. Attendees also learned about product updates that leverage groundbreaking Google research to enhance productivity and boost generative AI skills.
+
+### Key Highlights of the Summit:
+With insights from **world-renowned AI researchers**, **developer advocates**, **Google Cloud product leaders**, and more, the Summit featured:
+
+- Product updates and hands-on demos
+- Real-world use cases
+- Content across **Application Building**, **Data Science**, and **Partner Perspectives**
+
+### Attendees participated in sessions to:
+- **Learn** how to build with leading foundation models like **PaLM 2**, **Imagen**, and **Stable Diffusion**
+- **Get hands-on** with generative AI and tools like **multimodal embeddings**, **LangChain**, and **vector databases**
+- **Scale faster** with **MLOps** capabilities designed for generative AI
+
+---
+
+*This badge recognizes participants' commitment to advancing their skills and knowledge in the field of Applied AI with Google Cloud.*
+
+---
+
+**Verify my badge here:** [Credential.net Verification](https://www.credential.net/b5c82bdb-9d9b-42e9-9d4b-b3a953dc8bcc)
+
+
+---
+
+
 
 
 
