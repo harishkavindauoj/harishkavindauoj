@@ -16,8 +16,7 @@ About Me<br><br>Hey! 👋 I'm a software engineer who’s super passionate about
 
 ![Google Cloud Applied AI Summit Badge](./images/google-cloud-ai-summit-badge.png)  <!-- Replace this with the actual path to your badge image -->
 
-**Issued On:** February 13, 2024  
-**Expires On:** Does not expire  
+**Issued On:** February 13, 2024   
 **Badge URL:** [View Badge](https://www.credential.net/b5c82bdb-9d9b-42e9-9d4b-b3a953dc8bcc)
 
 **Description:** This badge was awarded to participants who attended 5 or more sessions at the Google Cloud Applied AI Summit. The event featured content for Developers, IT Professionals, and Business Leaders to explore the latest generative AI models, tools, and real-world use cases.
