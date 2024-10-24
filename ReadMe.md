@@ -3,7 +3,7 @@ About Me<br><br>Hey! 👋 I'm a software engineer who’s super passionate about
 
 # Postman API Fundamentals Student Expert Badge
 
-![Postman API Fundamentals Student Expert Badge](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q/image)
+![Postman API Fundamentals Student Expert Badge](./images/badge.png)
 
 **Issued On:** October 24, 2024  
 **Badge URL:** [View Badge](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q)  
