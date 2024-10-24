@@ -12,50 +12,27 @@ About Me<br><br>Hey! 👋 I'm a software engineer who’s super passionate about
 *Verification:* This badge is hosted on Badgr and can be verified at the following link: [Verify Badge](https://api.badgr.io/public/assertions/gf-EDurzSmmfaNN0gCqn-Q)
 
 
-# Google Cloud Applied AI Summit Attendee Badge and E-Certificate
+# Google Cloud Applied AI Summit Attendee Badge
 
-![Google Cloud Applied AI Summit Badge](./images/google-cloud-ai-summit-badge.png)  
+![Google Cloud Applied AI Summit Badge](./images/google-cloud-ai-summit-badge.png)  <!-- Replace this with the actual path to your badge image -->
 
 **Issued On:** February 13, 2024  
 **Expires On:** Does not expire  
+**Badge URL:** [View Badge](https://www.credential.net/b5c82bdb-9d9b-42e9-9d4b-b3a953dc8bcc)
 
-**Verification URL:** [Verify Badge](https://www.credential.net/b5c82bdb-9d9b-42e9-9d4b-b3a953dc8bcc)
-
----
-
-The **Google Cloud Applied AI Summit attendee badge** and **e-certificate** are awarded to participants who attended 5 or more sessions during the program, recognizing their participation and commitment to learning.
-
-Live-streamed across the Asia Pacific region on **January 25, 2024**, the **Google Cloud Applied AI Summit** provided curated content for **Developers, IT Professionals, and Business Leaders** to explore the latest generative AI models and tools. Attendees also learned about product updates that leverage groundbreaking Google research to enhance productivity and boost generative AI skills.
-
-### Key Highlights of the Summit:
-With insights from **world-renowned AI researchers**, **developer advocates**, **Google Cloud product leaders**, and more, the Summit featured:
-
-- Product updates and hands-on demos
-- Real-world use cases
-- Content across **Application Building**, **Data Science**, and **Partner Perspectives**
-
-### Attendees participated in sessions to:
-- **Learn** how to build with leading foundation models like **PaLM 2**, **Imagen**, and **Stable Diffusion**
-- **Get hands-on** with generative AI and tools like **multimodal embeddings**, **LangChain**, and **vector databases**
-- **Scale faster** with **MLOps** capabilities designed for generative AI
+**Description:** This badge was awarded to participants who attended 5 or more sessions at the Google Cloud Applied AI Summit. The event featured content for Developers, IT Professionals, and Business Leaders to explore the latest generative AI models, tools, and real-world use cases.
 
 ---
 
-*This badge recognizes participants' commitment to advancing their skills and knowledge in the field of Applied AI with Google Cloud.*
+*Verification:* This badge can be verified at the following link: [Verify Badge](https://www.credential.net/b5c82bdb-9d9b-42e9-9d4b-b3a953dc8bcc)
 
----
-
-**Verify my badge here:** [Credential.net Verification](https://www.credential.net/b5c82bdb-9d9b-42e9-9d4b-b3a953dc8bcc)
 
 
 ---
-
-
-
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anandarajah Harish Kavinda) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/anandarajah-harish-kavinda-744070214) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
