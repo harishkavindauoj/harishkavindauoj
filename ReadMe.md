@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br><br>Hey! 👋 I'm a software engineer who’s super passionate about Machine Learning and AI 🤖. I love bringing ideas to life through code. Whether it's training ML models, building cool apps, or finding awesome patterns in data 🔍. Always up for a new challenge and excited about how tech can change the world!<br><br>My GitHub is my playground 🛠️, where I share some of the projects I’ve been working on. Check it out here and let’s team up to build something awesome together! 🚀
+About Me<br><br>Hey! 👋 I'm an AI engineer who’s super passionate about Machine Learning and AI 🤖. I love bringing ideas to life through code. Whether it's training ML models, building cool apps, or finding awesome patterns in data 🔍. Always up for a new challenge and excited about how tech can change the world!<br><br>My GitHub is my playground 🛠️, where I share some of the projects I’ve been working on. Check it out here and let’s team up to build something awesome together! 🚀
 
 # Postman API Fundamentals Student Expert Badge
 
