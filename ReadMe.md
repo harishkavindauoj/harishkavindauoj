@@ -1,6 +1,17 @@
 # 💫 About Me:
 About Me<br><br>Hey! 👋 I'm an AI engineer who’s super passionate about Machine Learning and AI 🤖. I love bringing ideas to life through code. Whether it's training ML models, building cool apps, or finding awesome patterns in data 🔍. Always up for a new challenge and excited about how tech can change the world!<br><br>My GitHub is my playground 🛠️, where I share some of the projects I’ve been working on. Check it out here and let’s team up to build something awesome together! 🚀
 
+# Google Play Academy – Store Listing Certificate
+
+![Google Play Academy Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/177496859)
+
+**Issued By:** Google Play Academy  
+**Credential URL:** [View Credential](https://www.credential.net/d69b2725-1b10-4b76-9200-9455ec635029)  
+
+**Description:** This credential was awarded for successfully completing the Google Play Academy – Store Listing Certificate program. It demonstrates proficiency in optimizing store listings, improving app visibility, and applying best practices for app marketing on the Google Play Store.
+
+*Verification:* This credential is hosted on Accredible and can be verified at the following link: [Verify Credential](https://www.credential.net/d69b2725-1b10-4b76-9200-9455ec635029)
+
 # Postman API Fundamentals Student Expert Badge
 
 ![Postman API Fundamentals Student Expert Badge](./images/badge.png)
